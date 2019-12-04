@@ -10,4 +10,4 @@
 ### 9. Erosion and Dilation
 ### 10. Lossless Image
 
-The program is not good enough, I'm trying hard to update as soon as possible 
+The program and its design are not good enough, I'm trying hard to update as soon as possible 
