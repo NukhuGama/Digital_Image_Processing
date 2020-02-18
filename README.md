@@ -11,4 +11,4 @@
 ### 10. Lossless Image
 
 The program and its design are not good enough, I'm trying hard to update as soon as possible 
-All the code are not using library just a simple clean code
+All the code are not using library  but just a simple clean code
